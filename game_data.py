@@ -1,6 +1,6 @@
 data = [
     {
-        'name': 'Instagram',
+        'name': 'Insta',
         'follower_count': 346,
         'description': 'Social media platform',
         'country': 'United States'
